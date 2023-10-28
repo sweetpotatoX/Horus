@@ -1,7 +1,8 @@
 
   <h2 align="center">Horus New Logistics - Transportation website</h2>
 
-  Horus New Logistics is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Horus New Logistics is a fully responsive transportation website, <br />
+  Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 </div>
 
