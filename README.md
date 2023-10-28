@@ -1,13 +1,3 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Horus New Logistics)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Horus New Logistics?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Horus New Logistics?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
-
-  <br />
-  <br />
 
   <h2 align="center">Horus New Logistics - Transportation website</h2>
 
